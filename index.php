@@ -11,12 +11,12 @@
                     Adazbázis feldolgozás
                 </h1>
                 <nav>
-                    <ul>
-
-                        <li id="beolvas"><a href="#">Beolvas</a></li>
-                    </ul>
-                </nav>
             </header>
+            <article>
+                <div>
+
+                </div>
+            </article>
         </main>
         <?php
         // put your code here
